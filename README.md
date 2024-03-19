@@ -9,3 +9,4 @@ The project is organized by problem difficulty (easy, medium, hard), with each p
 ## Problem List
 1. [Two Sum](src/pl/mbaracz/leetcode/easy/Problem1.java) - [LeetCode](https://leetcode.com/problems/two-sum/)
 2. [Add Two Numbers](src/pl/mbaracz/leetcode/medium/Problem2.java) - [LeetCode](https://leetcode.com/problems/add-two-numbers/)
+3. [Longest Substring Without Repeating Characters](src/pl/mbaracz/leetcode/medium/Problem3.java) - [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
