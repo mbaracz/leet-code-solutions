@@ -4,7 +4,7 @@ Welcome to my LeetCode solutions repository! Here, you'll find my solutions to v
 
 ## Project Structure
 
-The project is organized by problem difficulty (easy, medium, hard), with each problem having its own directory containing the solution code.
+The project is organized by problem difficulty (easy, medium, hard), with each problem having an associated number according to LeetCode challenges.
 
 ## Problem List
 1. [Two Sum](src/pl/mbaracz/leetcode/easy/Problem1.java) - [LeetCode](https://leetcode.com/problems/two-sum/)
